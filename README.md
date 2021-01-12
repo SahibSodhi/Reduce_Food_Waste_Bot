@@ -1,4 +1,4 @@
-# food-waste-bot
+# reduce-food-waste-bot
 Telegram bot built using python-telegram-bot that links people with leftovers to those who need the food
 
 ![alt text](https://miro.medium.com/max/1400/1*i-ZiknOAvYAo0N9R7k1hPg.png "Illustrated Flow")
